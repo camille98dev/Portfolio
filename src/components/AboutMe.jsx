@@ -13,7 +13,7 @@ const AboutMe = () => {
           </div>
           <div className="border lg:block hidden border-emerald-900 w-[50%] h-0 mt-2"></div>
         </div>
-        <div className="flex flex-col-reverse lg:flex-row items-center gap-10">
+        <div className="text-gray-50 flex flex-col-reverse lg:flex-row items-center gap-10">
           <article className="lg:w-[50%] space-y-2 font-mono">
             <p align="justify">
               Hello! My name is Katrine Camille. I never expected to be here,

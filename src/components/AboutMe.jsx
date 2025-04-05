@@ -14,7 +14,7 @@ const AboutMe = () => {
           <div className="border lg:block hidden border-emerald-900 w-[50%] h-0 mt-2"></div>
         </div>
         <div className="flex flex-col-reverse lg:flex-row items-center gap-10">
-          <article className="text-emerald-200 lg:w-[50%] space-y-2 font-mono">
+          <article className="lg:w-[50%] space-y-2 font-mono">
             <p align="justify">
               Hello! My name is Katrine Camille. I never expected to be here,
               writing code and building websites. My career path seemed set in
